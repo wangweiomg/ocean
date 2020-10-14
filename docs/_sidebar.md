@@ -9,6 +9,7 @@
     * [第六卷 道教的复兴](yevon_ou/base/F10_6.md)
     * [第七卷 侧记](yevon_ou/base/F10_7.md)
 * 房地产
+    * [论库存的理解和分析](yevon_ou/real_estate/2140.md)
 
 * 经济学
 
