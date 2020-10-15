@@ -28,3 +28,7 @@
     * [高房价的根本原因](kkndme/1.md)
     * [通货膨胀](kkndme/2.md)
     * [房产税](kkndme/3.md)
+    * [房价会跌吗](kkndme/4.md)
+    * [中国房地产和欧美无可比性](kkndme/5.md)
+    * [2010年的房地产调控，我们收获了什么](kkndme/6.md)
+    * [装修](kkndme/7.md)
