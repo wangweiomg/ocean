@@ -32,3 +32,7 @@
     * [中国房地产和欧美无可比性](kkndme/5.md)
     * [2010年的房地产调控，我们收获了什么](kkndme/6.md)
     * [装修](kkndme/7.md)
+
+## dittojeff
+* 言论
+    * [dittojeff十多年以来言论](dittojeff/1.md)
