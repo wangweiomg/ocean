@@ -21,6 +21,7 @@
     * [元末的石人](yevon_ou/history/stone_person.md)
 
 * 杂篇
+    * [金句摘录](yevon_ou/base/verse.md)
 
 
 ## kkndme
